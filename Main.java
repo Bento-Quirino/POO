@@ -1,32 +1,16 @@
-public class Main {    
-    public static void main(String[] args) {
-        Animal animal = new Animal();
-        Tartaruga tartaruga = new Tartaruga();
-        Transformers transformers = new Transformers();
-        TartarugaLeao tartarugaLeao = new TartarugaLeao();
+package POO; // Nome do pacote(POO) é o mesmo nome da pasta
 
-        animal.eat();
-        System.out.println(animal.getIdade());
+// Classe principal
+public class Main {
+    // Se tentar instanciar o Veiuclo, vai dar erro, pois é uma classe abstrata
+    // Veiculo veiculoQualquer = new Veiculo("Yamaha", "Yate 1", 2020);
 
-        tartaruga.eat();
-        System.out.println(tartaruga.getIdade());
+    // Método principal onde o programa começa a ser executado
+    Iate iateQualquer = new Iate( // Tipo da variável é Iate, nome da variável é iateQualquer
+        "Yamaha", 
+        "Yate 1", 
+        2020, 
+        10
+    );
 
-        System.out.println(tartaruga.quantidadeOvos());
-        System.out.println(animal);
-        System.out.println(tartarugaLeao.quantidadeOvos());
-
-        System.out.println("TRANSFORMERS");
-
-        transformers.ligar();
-        transformers.dominarOMundo();
-        transformers.fazerCafe();
-        transformers.eat();
-        try {
-            transformers.setIdade(300);
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-        }
-        System.out.println(transformers.getIdade());
-
-    }
 }
