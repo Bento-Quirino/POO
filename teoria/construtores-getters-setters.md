@@ -104,3 +104,7 @@ public class Usuario {
     }
 }
 ```
+
+## Exemplo visual com OUTRA CLASSE sobre modificadores de acesso
+![image](https://github.com/user-attachments/assets/b284b2e2-df1f-4e66-a27f-5f617cb9978e)
+
