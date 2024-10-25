@@ -2,6 +2,26 @@
 
 Neste exercício, vamos explorar a diferença entre classes abstratas e interfaces, e entender como e quando usá-las.
 
+## Instruções
+
+- Formem grupos de até **5 integrantes** para desenvolverem o exercício juntos.
+- Cada grupo deverá implementar o código conforme as instruções, testando os métodos `fazerSom()`, `dormir()`, `domesticar()` e `alimentar()` nas classes `Cachorro` e `Gato`.
+- A entrega deve ser realizada até **25/10/2024**.
+
+---
+
+### Grupos
+
+| Grupo | Integrantes (máximo 5)                |
+|-------|---------------------------------------|
+| 1     |                                       |
+| 2     |                                       |
+| 3     |                                       |
+| 4     |                                       |
+| 5     |                                       |
+| 6     |                                       |
+| 7     |                                       |
+
 ## Conceitos
 
 - **Classes**: Encapsulam dados e métodos de um objeto. Podem ser instanciadas e podem herdar métodos e propriedades de outras classes.
