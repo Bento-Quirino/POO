@@ -14,13 +14,13 @@ Neste exercício, vamos explorar a diferença entre classes abstratas e interfac
 
 | Grupo | Integrantes (máximo 5)                |
 |-------|---------------------------------------|
-| 1     |                                       |
-| 2     |                                       |
-| 3     |                                       |
-| 4     |                                       |
-| 5     |                                       |
-| 6     |                                       |
-| 7     |                                       |
+| 1     | Arthur Gaspar, João Pedro, Otávio Lara, Mateus Tavares                                      |
+| 2     | Paulo Emanuel, Caio Gonçalves, Vitor Tavares, Murilo Holtz, Ana Julia  |
+| 3     | Thaynan, Rafaela, Ryan Édio, Vitor Alves, Mikael Manso     |
+| 4     | Gabriel André Cogo, Gabriel Betin, Pedro Melo, Eduardo Marçal, Rafael Luis Banwart                                     |
+| 5     | Nicolas Otávio, Pedro Pires, Carlos Augusto                     |
+| 6     | Leandro Santos, Danilo Marques, Cauan Almanara, Gian Luca, Caua Cicone     |
+| 7     | Eduardo Sierra, Gustavo Ricardo, Brenda Gabriela, Bruno de Almeida Lima, Davi Falciroli                                    |
 
 ## Conceitos
 
