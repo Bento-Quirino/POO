@@ -57,3 +57,8 @@ Neste exercício, vamos explorar a diferença entre classes abstratas e interfac
      - Deve estender `Animal` e implementar `Domesticavel` e `Alimentavel`.
      - Implementação de `fazerSom()` deve retornar `"Miau"`.
      - Implementação de `alimentar()` deve retornar `"Comendo peixe"`.
+
+### Entrega
+
+- PDF de um manuscrito com a resolução do exercício acima.
+- Enviar pelo teams o PDF com a resolução e o nome dos integrantes.
