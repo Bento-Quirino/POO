@@ -1,5 +1,9 @@
 # Prova Prática de Programação Orientada a Objetos em Java
 
+# GRUPOS DE ATÉ 6 PESSOAS
+
+# ENVIAR O LINK DO GITHUB COM PROJETO NO TEAMS PARA O PROFESSOR
+
 ## Objetivo
 
 Implementar um sistema em Java que demonstre o uso de conceitos avançados de Programação Orientada a Objetos (POO), incluindo:
